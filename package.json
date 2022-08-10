@@ -1,0 +1,23 @@
+{
+  "name": "js_n_4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vognev2017/EEF_project_JS_N_3.git"
+  },
+  "author": "henadiyv@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vognev2017/EEF_project_JS_N_3/issues"
+  },
+  "homepage": "https://github.com/Vognev2017/EEF_project_JS_N_3#readme",
+  "dependencies": {
+    "mime-types": "^2.1.35"
+  }
+}
